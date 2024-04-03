@@ -1,0 +1,5 @@
+torch==2.2.1
+transformers==4.39.2
+omegaconf==2.3.0
+google==3.0.0
+cached_path==1.6.2
